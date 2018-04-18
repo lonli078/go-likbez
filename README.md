@@ -1,0 +1,6 @@
+- Язык программирования Go - Алан А. А. Донован, Брайан У. Керниган
+- Программирование на языке Go - Марк Саммерфильд
+- Лекции "Техносфера Mail.ru Group" при МГУ - https://www.youtube.com/watch?v=9Pk7xAT_aCU&list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I
+- Роман Левищенко - Погружение в Google Go - https://www.youtube.com/watch?v=sAHzVzjM3WI&list=PLBOo6DBmP5V9CAXxxl6EZxZpMmT_4ZOca
+- 50 оттенков GO - https://habrahabr.ru/company/mailru/blog/314804/
+- Материалы по GO - https://gist.github.com/egorsmkv/9df2aef2eddf51986b6d2b5833a4423e
